@@ -1,4 +1,4 @@
-## Corresponding Projects
+## Code from advanced react course by [John Smilga](https://www.johnsmilga.com) covering the following topics:
 
 #### useState
 
